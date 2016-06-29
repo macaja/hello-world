@@ -1,5 +1,10 @@
 Ramas en Git
 Branch
 
+Estas parte se hizo para ensayar mas con el repositorio remoto GitHub.
+
+Git es un repositorio local y gitHub es un repositorio remoto que se encuentra en la nube.
+
+branch es para trabajar con las ramas y hacer cambios y no dañar nuestro codigo bueno.
 
 Otra cosita
